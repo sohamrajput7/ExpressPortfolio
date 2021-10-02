@@ -6,3 +6,8 @@
     width: 50;
     height: 80;
   }
+
+  .centertext {
+    display: block;
+    text-align: center;
+  }
