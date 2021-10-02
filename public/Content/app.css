@@ -14,6 +14,11 @@
   }
   */
 
+  .lefttext {
+    display: block;
+    text-align: left;
+  }
+
   button {
     display: block;
     margin-left: auto;
